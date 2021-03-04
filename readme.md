@@ -1,6 +1,6 @@
-Sistema de apoio a decisão com analise de dados eleitorais.
+Sistema de apoio a decisão com análise de dados eleitorais.
 
-Utilizando dados das eleições ordinanrias de 2020 em Mato Grosso e verificando se o poderio economico pode alterar o resultado do pleito.
+Utilizando dados das eleições ordinárias de 2020 em Mato Grosso e verificando se o poderio econômico pode alterar o resultado do pleito.
 
 Para utilizar.
   1. Baixe os php's e execute em servidor php>7
